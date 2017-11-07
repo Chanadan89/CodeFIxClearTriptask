@@ -1,7 +1,7 @@
 /*
  * Author : Chandan Das
  * Last modified : 6/11/2017
- * Test Case Name : Flight Booking for one way travel on Cleartrip 
+ * Test Case Name : Sign in  Error meassage Test on Cleartrip 
  * Test case purpose: Validating the Sign in Error message Summary
  *  
  */

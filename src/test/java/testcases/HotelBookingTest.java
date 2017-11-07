@@ -1,3 +1,12 @@
+/*
+ * Author : Chandan Das
+ * Last modified : 7/11/2017
+ * Test Case Name : Hotel Booking on Cleartrip .
+ * Test case purpose: Validating the Hotel Search .
+ *  
+ */
+
+
 package testcases;
 
 import com.sun.javafx.PlatformUtil;
