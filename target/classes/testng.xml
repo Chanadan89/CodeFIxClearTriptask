@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Application Test Automation Test Suite" >
+  <test name="Clear Trip Test" >
+    <classes>
+      <class name="testcases.SignInTest"></class>
+	  <class name="testcases.HotelBookingTest"></class>
+	  <class name="testcases.FlightBookingTest"></class>
+    </classes>
+ </test>
+</suite>
